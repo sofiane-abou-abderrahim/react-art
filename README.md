@@ -20,3 +20,8 @@
 ## 1. Module Introduction & Starting Project
 
 1.  create `README.md`
+
+## 2. Splitting CSS Code Across Multiple Files
+
+1. create `Header.css` & paste the styles to it cut from `index.css`
+2. import `Header.css` in `Header.jsx`
