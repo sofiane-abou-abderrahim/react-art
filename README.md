@@ -25,3 +25,7 @@
 
 1. create `Header.css` & paste the styles to it cut from `index.css`
 2. import `Header.css` in `Header.jsx`
+
+## 3. Vanilla CSS Styles Are NOT Scoped To Components!
+
+1. example of vanilla CSS style not being scoped in components
