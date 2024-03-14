@@ -29,3 +29,7 @@
 ## 3. Vanilla CSS Styles Are NOT Scoped To Components!
 
 1. example of vanilla CSS style not being scoped in components
+
+## 4. Styling React Apps with Inline Styles
+
+1. apply inline styles in `Header.jsx`
