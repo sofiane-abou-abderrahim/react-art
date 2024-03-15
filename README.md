@@ -53,3 +53,7 @@
 1. run `npm install styled-components`
 2. add `import { styled } from 'styled-components';` in `Authinputs.jsx`
 3. use `styled` component in the code in `Authinputs.jsx`
+
+## 9. Creating Flexible Components with Styled Components
+
+1. add `Label` & `Input` components in `Authinputs.jsx`
