@@ -41,3 +41,9 @@
 ## 6. Dynamic & Conditional Styling with CSS Files & CSS Classes
 
 1. add dynamic & conditional styles with CSS files & CSS classes using template literals
+
+## 7. Scoping CSS Rules with CSS Modules
+
+1. rename `Header.css` to `Header.module.css`
+2. import `import classes from './Header.module.css';` in `Header.jsx`
+3. apply `.paragraph` class
