@@ -37,3 +37,7 @@
 ## 5. Dynamic & Conditional Inline Styles
 
 1. add dynamic & conditional style using inline styling in `Authinputs.jsx`
+
+## 6. Dynamic & Conditional Styling with CSS Files & CSS Classes
+
+1. add dynamic & conditional styles with CSS files & CSS classes using template literals
