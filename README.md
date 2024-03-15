@@ -47,3 +47,9 @@
 1. rename `Header.css` to `Header.module.css`
 2. import `import classes from './Header.module.css';` in `Header.jsx`
 3. apply `.paragraph` class
+
+## 8. Introducing "Styled Components" (Third-party Package)
+
+1. run `npm install styled-components`
+2. add `import { styled } from 'styled-components';` in `Authinputs.jsx`
+3. use `styled` component in the code in `Authinputs.jsx`
