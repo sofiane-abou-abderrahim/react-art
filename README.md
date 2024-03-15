@@ -33,3 +33,7 @@
 ## 4. Styling React Apps with Inline Styles
 
 1. apply inline styles in `Header.jsx`
+
+## 5. Dynamic & Conditional Inline Styles
+
+1. add dynamic & conditional style using inline styling in `Authinputs.jsx`
