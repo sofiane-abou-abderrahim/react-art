@@ -80,3 +80,8 @@
 3. add the Tailwind directives to `index.css`
 4. install Tailwind CSS IntelliSense extension in Visual Studio Code
 5. use Tailwind CSS in `Header.jsx`
+
+## 14. Adding & Using Tailwind CSS In A React Project
+
+1. customize Tailwind CSS by adding custom styles in `index.css`
+2. create a new utility file that alows to use a custom font in `tailwind.config.js` & use it in `Header.jsx`
