@@ -90,3 +90,7 @@
 
 1. use media queries in `Header.jsx`
 2. use pseudo selectors in `Button.jsx`
+
+## 16. Dynamic & Conditional Styling with Tailwind
+
+1. add dynamic Tailwind CSS classes to JSX code depending on some conditions in `Input.jsx`
