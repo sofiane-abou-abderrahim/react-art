@@ -72,3 +72,11 @@
 
 1. create `Button.jsx` component
 2. create `Input.jsx` component
+
+## 13. Introducing Tailwind CSS For React App Styling
+
+1. install Tailwind CSS
+2. configure Tailwind CSS in `tailwind.config.js`
+3. add the Tailwind directives to `index.css`
+4. install Tailwind CSS IntelliSense extension in Visual Studio Code
+5. use Tailwind CSS in `Header.jsx`
