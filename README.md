@@ -67,3 +67,8 @@
 
 1. replace the built-in `header` component with a styled `StyledHeader`component
 2. use `&` to apply CSS styles to elements inside their parent
+
+## 12. Creating Reusable Components & Component Combinations
+
+1. create `Button.jsx` component
+2. create `Input.jsx` component
