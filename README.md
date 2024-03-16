@@ -57,3 +57,8 @@
 ## 9. Creating Flexible Components with Styled Components
 
 1. add `Label` & `Input` components in `Authinputs.jsx`
+
+## 10. Dynamic & Conditional Styling with Styled Components
+
+1. use styled components for `label` & `input` to apply dynamic styles to `Email` & `Password`
+2. prefix the props you only want to use in your styled components with `$` to avoid clashes with built-in props
