@@ -62,3 +62,8 @@
 
 1. use styled components for `label` & `input` to apply dynamic styles to `Email` & `Password`
 2. prefix the props you only want to use in your styled components with `$` to avoid clashes with built-in props
+
+## 11. Styled Components: Pseudo Selectors, Nested Rules & Media Queries
+
+1. replace the built-in `header` component with a styled `StyledHeader`component
+2. use `&` to apply CSS styles to elements inside their parent
