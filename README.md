@@ -85,3 +85,8 @@
 
 1. customize Tailwind CSS by adding custom styles in `index.css`
 2. create a new utility file that alows to use a custom font in `tailwind.config.js` & use it in `Header.jsx`
+
+## 15. Tailwind: Media Queries & Pseudo Selectors
+
+1. use media queries in `Header.jsx`
+2. use pseudo selectors in `Button.jsx`
