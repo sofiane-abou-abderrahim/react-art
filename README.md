@@ -94,3 +94,7 @@
 ## 16. Dynamic & Conditional Styling with Tailwind
 
 1. add dynamic Tailwind CSS classes to JSX code depending on some conditions in `Input.jsx`
+
+## 17. Migrating The Demo App to Tailwind CSS
+
+1. complete the Tailwind CSS migration in `Authinputs.jsx`
